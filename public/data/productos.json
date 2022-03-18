@@ -1,0 +1,1340 @@
+[
+    {
+        "categories": ["Maderas", "Exterior"],
+        "marca": "Xylasol",
+        "title": "Lasur Protector",
+        "options": [
+            {
+                "name": "Satinado",
+                "colors": ["Natural", "Cristal", "R. Claro", "Nogal", "Cedro", "R. Oscuro", "Caoba", "B. Antique"],
+                "liters": [1, 4, 6]
+            },
+            {
+                "name": "Brillante",
+                "colors": ["Natural", "Cristal", "Nogal", "Cedro", "R. Oscuro", "Caoba"],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Exterior"],
+        "marca": "Xylasol",
+        "title": "Acrilico Classic",
+        "options": [
+            {
+                "name": "Satinado",
+                "colors": ["Natural", "Caoba", "Roble", "Cedro"],
+                "liters": [1, 4]
+            },
+            {
+                "name": "Brillante",
+                "colors": ["Natural", "Caoba", "Roble", "Cedro"],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Exterior"],
+        "marca": "Xylasol",
+        "title": "Polilak diluyente",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1]
+            }
+        ]  
+    },
+    {
+        "categories": ["Maderas", "Exterior"],
+        "marca": "Xylasol",
+        "title": "Decorlite",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Roble", "Nogal", "Cedro", "Caoba", "Pino", "Peteribi", "Ébano"],
+                "liters": [0,6]
+            }
+        ]  
+    },
+    {
+        "categories": ["Muros", "Techos"],
+        "marca": "Techesco",
+        "title": "Techesco en pasta",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Blanco", "Rojo Teja", "Verde", "Gris Chapa", "Gris Oscuro"],
+                "liters": [1.25, 5, 10, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Muros", "Techos"],
+        "marca": "Techesco",
+        "title": "Techesco líquida",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Blanco", "Rojo Teja"],
+                "liters": [5, 10, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Muros", "Techos"],
+        "marca": "Sellatec",
+        "title": "Sellatec frentes",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Blanco", "Rojo", "Verde", "Cemento", "Ocre"],
+                "liters": [1, 4, 10, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Muros", "Techos"],
+        "marca": "Techesco",
+        "title": "Techesco frentes",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Blanco"],
+                "liters": [4, 10, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Metales"],
+        "marca": "Converlux",
+        "title": "Converlux 3 en 1",
+        "options": [
+            {
+                "name": "Brillante - Grupo 1",
+                "colors": ["Aluminio", "Bermellon", "Naranja", "Amarillo M.", "Amarillo", "Blanco"],
+                "liters": ["500cc", 1, 4, 20]                
+            },
+            {
+                "name": "Brillante - Grupo 2",
+                "colors": ["Negro", "Marron", "V. Noche", "V. Noche", "Marfil", "Gris", "Tostado", "Gris Perla", "Gris Espacial", "Azul", "Azul Traful"],
+                "liters": ["500cc", 1, 4, 20]                
+            },
+            {
+                "name": "Mate",
+                "colors": ["Negro", "Blanco"],
+                "liters": ["500cc", 1, 4, 20]                
+            },
+            {
+                "name": "Satinado",
+                "colors": ["Negro", "Blanco"],
+                "liters": ["500cc", 1, 4, 20]                
+            }
+        ]
+    },
+    {
+        "categories": ["Metales"],
+        "marca": "Corroless",
+        "title": "Convertidor de óxido",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Rojo", "Blanco", "Negro","Gris", "Verde"],
+                "liters": [0.25, 0.5, 1, 4, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Metales"],
+        "marca": "Corroless",
+        "title": "Antióxido",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Rojo"],
+                "liters": [0.5, 1, 4, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Metales"],
+        "marca": "Corroless",
+        "title": "Fondo para Galvanizado",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.25, 0.5, 1, 4, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Q501",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 4, 10]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [1, 4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Q400",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Poliplast",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Celocrom Ureico",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 4, 10]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [1, 4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "UV",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [0.5, 1, 4, 10, 20]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [0.5, 1, 4, 10, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Barniz Super Marino",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 4, 20]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [1, 4, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Eco-Hydrotop",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 5]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [1, 5]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Hydrotop density",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 5]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [1, 5]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Combo Eco Hydrotop",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [5, 10]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [5, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Combo Hydrotop Density",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 6]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [1, 6]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Sellador Q501",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Diluyente Q501",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Antiaberturas",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.25]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Q501 Opacate",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.1, 0.5]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Catalizador (Lacas al solvente)",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.02]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "DKP",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Hydrotop Sellador",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 5]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Interior", "Exterior"],
+        "marca": "Plastilux",
+        "title": "Catalizador (Lacas al agua)",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.1]
+            }
+        ]
+    },
+    {
+        "categories": ["Metales", "Esmaltes", "Convertidores"],
+        "marca": "Ferrobet",
+        "title": "Duo",
+        "subtitle": "Esmalte Convertidor de Oxido",
+        "options": [
+            {
+                "name": "Brillante - Grupo 1",
+                "colors": ["Blanco", "Aluminio", "Bermellon", "Naranja", "A. Mediano", "Amarillo"],
+                "liters": [0.25, 0.5, 1, 4, 20]
+            },
+            {
+                "name": "Brillante - Grupo 2",
+                "colors": ["Negro", "Marron", "Verde Noche", "Verde Ingles", "Gris Espacial", "Marfil Seda", "Beige", "Gris", "Azul Marino"],
+                "liters": [0.25, 0.5, 1, 4, 20]
+            },
+            {
+                "name": "Satinado - Grupo 1",
+                "colors": ["Blanco"],
+                "liters": [0.5, 1, 4, 20]
+            },
+            {
+                "name": "Satinado - Grupo 2",
+                "colors": ["Negro, Verde Ingles", "Gris Espacial"],
+                "liters": [0.5, 1, 4, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Metales", "Esmaltes", "Convertidores"],
+        "marca": "Ferrobet",
+        "title": "Duo Efectos",
+        "subtitle": "Esmalte Convertidor de Oxido",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Plata", "Hierro Ant.", "Gris"],
+                "liters": [0.5, 1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Metales", "Esmaltes", "Convertidores"],
+        "marca": "Ferrobet",
+        "title": "Convertidor de oxido",
+        "options":[
+            {
+                "name": "Default",
+                "colors": ["Rojo", "Blanco", "Negro", "Marrón", "Azul", "Gris", "Verde", "Ocre"],
+                "liters": [0.25, 0.5, 1, 4, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Metales", "Esmaltes", "Convertidores"],
+        "marca": "Ferrobet",
+        "title": "Fondo para Galvanizados y Aluminio",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Blanco"],
+                "liters": [0.5, 1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Metales", "Esmaltes", "Convertidores"],
+        "marca": "Ferrobet",
+        "title": "Desoxidante Fosfatizante Desengrasante",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 5]
+            }
+        ]
+    },
+    {
+        "categories": ["Metales", "Esmaltes", "Convertidores"],
+        "marca": "Ferrobet",
+        "title": "Duo Express",
+        "subtitle": "Esmalte Convertidor de Oxido",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Blanco", "Negro", "Gris"],
+                "liters": [0.5, 1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Metales", "Esmaltes", "Convertidores"],
+        "marca": "Ferrobet",
+        "title": "Duo Express",
+        "subtitle": "Diluyente",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.5]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Insecticidas", "Decoración"],
+        "marca": "Penta",
+        "title": "Penta LPU",
+        "subtitle": "Insecticida - Funguicida - Alguicida",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 10, 18, 200, 1000]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Insecticidas", "Decoración"],
+        "marca": "Penta",
+        "title": "Penta Insecticida",
+        "subtitle": "Preservador y Curador",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 10, 18, 200, 1000]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Insecticidas", "Decoración"],
+        "marca": "Penta",
+        "title": "Penta Concentrado",
+        "subtitle": "Insecticida - Funguicida - Alguicida",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 200]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Insecticidas", "Decoración"],
+        "marca": "Penta",
+        "title": "Penta Stain",
+        "subtitle": "Stain + Insecticida",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": ["Natural", "Cristal", "Cedro", "Caoba", "Nogal", "Roble"],
+                "liters": [1, 4, 10, 20]
+            },
+            {
+                "name": "Satinado",
+                "colors": ["Natural", "Cristal", "Cedro", "Caoba", "Nogal", "Roble"],
+                "liters": [1, 4, 10, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Insecticidas", "Decoración"],
+        "marca": "Penta",
+        "title": "Penta Deck",
+        "subtitle": "Recubrimiento protector",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Natural", "Viraro", "Teka"],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas", "Insecticidas", "Decoración"],
+        "marca": "Penta",
+        "title": "Penta Removedor",
+        "subtitle": "Gel Decapante",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Ladrillos", "Tejas", "Materiales de frente"],
+        "marca": "Sellagres",
+        "title": "Sellagres",
+        "subtitle": "Base acuosa",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 10, 20]
+            }
+        ]   
+    },
+    {
+        "categories": ["Ladrillos", "Tejas", "Materiales de frente"],
+        "marca": "Sellagres",
+        "title": "Sellagres Decorativo",
+        "subtitle": "Base solvente",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Natural", "Ceramico"],
+                "liters": [1, 4, 20]
+            }
+        ]   
+    },
+    {
+        "categories": ["Ladrillos", "Tejas", "Materiales de frente"],
+        "marca": "Sellagres",
+        "title": "Sellagres Ex-Petrisil",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 20]
+            }
+        ]   
+    },
+    {
+        "categories": ["Ladrillos", "Tejas", "Materiales de frente"],
+        "marca": "Sellagres",
+        "title": "Complemento Entonador",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.1]
+            }
+        ]   
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Danzke Lasur",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": ["Cristal", "Natural", "Cedro", "Roble", "Caoba", "Nogal"],
+                "liters": [1, 4, 20]
+            },
+            {
+                "name": "Satinado",
+                "colors": ["Cristal", "Natural", "Cedro", "R. Oscuro", "Caoba", "Nogal", "B. Patina"],
+                "liters": [1, 4, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Danzke H2O Lasur",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": ["Natural", "Cedro", "Roble", "Caoba"],
+                "liters": [1, 4]
+            },
+            {
+                "name": "Satinado",
+                "colors": ["Natural", "Cedro", "Roble", "Caoba"],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Danzke H2O Classic Lasur",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": ["Natural", "Cedro", "Roble", "Caoba"],
+                "liters": [1, 4]
+            },
+            {
+                "name": "Satinado",
+                "colors": ["Natural", "Cedro", "Roble", "Caoba"],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Danzke Deck",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Teka", "Habano", "Cerezo"],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Danzke Deck",
+        "subtitle": "Antideslizante",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Petrilac Todo Riesgo",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": ["Cristal", "Nogal", "Roble", "Cedro", "Caoba", "Natural"],
+                "liters": [1, 4, 20]
+            },
+            {
+                "name": "Satinado",
+                "colors": ["Cristal", "Nogal", "R. Oscuro", "Cedro", "Caoba", "Natural"],
+                "liters": [1, 4, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "7 Vidas",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Natural", "Roble", "Cedro"],
+                "liters": [0.5, 1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Laca Melacrilica",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Brillante", "Satinado"],
+                "liters": [0.5, 1, 4, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Campbell",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.5, 1, 4, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Tinta Color",
+        "subtitle": "Con aceite de Teka",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["R. Claro", "R. Oscuro", "Caoba", "Peteribi", "Nogal", "Cedro", "Viraro", "Wenge", "Algarrobo"],
+                "liters": [0.06, 0.24]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Mateante Universal",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.1, 0.5]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Petrilac Reparador",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Medio", "Oscuro"],
+                "liters": [0.25]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Lustrelac",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Removedor (Gel)",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Limpiador Renovador",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Diluyente para Lacas y Barnices",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.5, 1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Diluyente Poliuretanico",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.5, 1]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Aguarrás Premium",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 10, 18, 200]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Petrilac Masilla",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Natural", "Roble", "Lapacho", "Nogal", "Cedro", "Algarrobo"],
+                "liters": [0.225, 0.45]
+            }
+        ]
+    },
+    {
+        "categories": ["Maderas"],
+        "marca": "Petrilac",
+        "title": "Ignífugo",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [5]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Melacril",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Melacril Hidro-Plastificador",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Brillante", "Satinado"],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Plastilac",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Deck",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Teka", "Habano", "Cerezo"],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Petrilac Restaurador",
+        "subtitle": "Para pisos madera y flotante",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 5]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Melacril Sellador",
+        "subtitle": "Para hidroplastificado",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Petrilac plastificante",
+        "options": [
+            {
+                "name": "Default",
+                "colors": ["Incoloro", "Negro", "Rojo"],
+                "liters": [1]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Removedor",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Melacril",
+        "subtitle": "Profesional",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Petrilac Poliuretanico",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 4, 10]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Rolac",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 4, 10]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Plastibril",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [4, 10]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Petrilac Ureico",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [4]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [4]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Deck",
+        "options": [
+            {
+                "name": "Satinado",
+                "colors": ["Natural", "Cedro", "R. Oscuro", "Teka"],
+                "liters": [1, 4, 20]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Imprimación Acrílica",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [5, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Primer Poliuretanico",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Sellador Universal",
+        "subtitle": "Al alcohol",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Sellador Vinilico",
+        "subtitle": "Al solvente",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 4, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Melacril Al Agua",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 5, 10]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [1, 5, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Melacril Sellador",
+        "subtitle": "Al agua",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1, 5, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Petrilac Pu Agua",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 5, 10]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [1, 5, 10]
+            },
+            {
+                "name": "Sellador al agua",
+                "colors": [],
+                "liters": [1, 5, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Rolac Pu Agua",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 5, 10]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [1, 5, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Plasticrom Pu Agua",
+        "options": [
+            {
+                "name": "Brillante",
+                "colors": [],
+                "liters": [1, 5, 10]
+            },
+            {
+                "name": "Satinado",
+                "colors": [],
+                "liters": [1, 5, 10]
+            },
+            {
+                "name": "Sellador al agua",
+                "colors": [],
+                "liters": [1, 5, 10]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Pack Adhesivo Epoxi",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.5, 5]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Adhesivo",
+        "options": [
+            {
+                "name": "Adhesivo Petrilac",
+                "colors": [],
+                "liters": [1.25, 5, 12.5, 25]
+            },
+            {
+                "name": "Polieretánico para parquet",
+                "colors": [],
+                "liters": [0.6]
+            },
+            {
+                "name": "Pur Reticulable",
+                "colors": [],
+                "liters": [0.5]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Limpiapinceles",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Mateante",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.1, 0.5]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Acelerante",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [0.02]
+            }
+        ]
+    },
+    {
+        "categories": ["Pisos"],
+        "marca": "Petrilac",
+        "title": "Diluyente",
+        "subtitle": "Para poliuretanos",
+        "options": [
+            {
+                "name": "Default",
+                "colors": [],
+                "liters": [1]
+            }
+        ]
+    }
+]

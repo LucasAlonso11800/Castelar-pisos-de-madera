@@ -1,0 +1,36 @@
+nav.nav {
+    grid-column: 1 / 4;
+    grid-row: 1 / 2;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(#000, 0.3);
+    position: sticky;
+    top: 0;
+
+    ul {
+        display: flex;
+        justify-content: space-between;
+        li {
+            padding: 0 30px;
+            a {
+                color: $white;
+                transition: all 0.2s ease-in-out;
+                font-size: 18px;
+                font-weight: bold;
+                
+                &:hover {
+                    color: $orange;
+                }
+            }
+            &.active {
+                a {
+                    color: $orange;
+                    padding-bottom: 2px;
+                    border-bottom: 1px solid $orange;
+                }
+            }
+        }
+    }
+}

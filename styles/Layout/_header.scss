@@ -1,0 +1,10 @@
+header.header {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    padding: 20px;
+    background-image: url(../../assets/local.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 5px 20px 5px $black;
+    border-radius: 0 0 10px 10px;
+}
