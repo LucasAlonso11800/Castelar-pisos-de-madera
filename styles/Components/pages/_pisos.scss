@@ -1,0 +1,18 @@
+main.main#pisos {
+    grid-column: 2 / 3;
+    grid-row: 4 / 5;
+    padding: 20px;
+    border-radius: 10px;
+
+    div.images {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    img {
+        max-width: 30%;
+        margin-bottom: 16px;
+        border-radius: 10px;
+        border: 2px solid $orange
+    }
+}
