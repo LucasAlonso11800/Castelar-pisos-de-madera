@@ -5,9 +5,7 @@ nav.nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(#000, 0.3);
-    position: sticky;
-    top: 0;
+    background-color: rgba(#000, 0.7);
 
     ul {
         display: flex;
@@ -22,6 +20,7 @@ nav.nav {
                 
                 &:hover {
                     color: $orange;
+                    letter-spacing: 1px;
                 }
             }
             &.active {
