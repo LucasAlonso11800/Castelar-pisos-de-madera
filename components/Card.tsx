@@ -21,7 +21,7 @@ export default function Card({ product }: Props) {
             {options.length > 1 &&
                 <select value={selectedOption.name} onChange={handleChange} className="options">
                     {options.map(option => (
-                        <option value={option.name}>{option.name}</option>
+                        <option key={option.name} value={option.name}>{option.name}</option>
                     ))}
                 </select>
             }
@@ -29,7 +29,7 @@ export default function Card({ product }: Props) {
                 <b>Tamaños:</b>
                 <p>
                     {selectedOption.liters.map((option, index) => {
-                        return <span>{option}L{index < selectedOption.liters.length - 1 ? ', ' : ''}</span>
+                        return <span key={index}>{option}L{index < selectedOption.liters.length - 1 ? ', ' : ''}</span>
                     })}
                 </p>
             </div>
@@ -38,7 +38,7 @@ export default function Card({ product }: Props) {
                     <b>Colores:</b>
                     <p>
                     {selectedOption.colors.map((option, index) => {
-                        return <span>{option}{index < selectedOption.colors.length - 1 ? ', ' : ''}</span>
+                        return <span key={index}>{option}{index < selectedOption.colors.length - 1 ? ', ' : ''}</span>
                     })}
                     </p>
                 </div>

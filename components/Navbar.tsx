@@ -13,8 +13,8 @@ export default function Navbar() {
                 <li className={active === 'inicio' ? 'active' : ''} onClick={() => setActive('inicio')}>
                     <Link href="/#">Inicio</Link>
                 </li>
-                <li className={active === 'local' ? 'active' : ''} onClick={() => setActive('local')}>
-                    <Link href="/#">Nuestro local</Link>
+                <li className={active === 'contacto' ? 'active' : ''} onClick={() => setActive('contacto')}>
+                    <Link href="/#">Contacto</Link>
                 </li>
                 <li className={active === 'pisos' ? 'active' : ''} onClick={() => setActive('pisos')}>
                     <Link href="/#">Instalación de pisos</Link>
