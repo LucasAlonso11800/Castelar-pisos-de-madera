@@ -36,11 +36,11 @@ export default function Modal({ open, setOpen, categories, brands, products, set
                 <h4>Filtrar productos</h4>
                 <select className='select' value={category} onChange={handleChange([...categories, { name: 'todas' }], setCategory)}>
                     <option value="todas">Todas</option>
-                    {categories.map((category) => <option value={category.name}>{category.name}</option>)}
+                    {categories.map((category) => <option key={category.name} value={category.name}>{category.name}</option>)}
                 </select>
                 <select className='select' value={brand} onChange={handleChange([...brands, { name: 'todas' }], setBrand)}>
                     <option value="todas">Todas</option>
-                    {brands.map((brand) => <option value={brand.name}>{brand.name}</option>)}
+                    {brands.map((brand) => <option key={brand.name} value={brand.name}>{brand.name}</option>)}
                 </select>
                 <input className='input' type='text' placeholder='Buscar por nombre' value={name} onChange={(e) => setName(e.target.value)}/>
                 <button onClick={handleClose}>Filtrar</button>

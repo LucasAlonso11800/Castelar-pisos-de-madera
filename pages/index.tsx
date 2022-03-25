@@ -55,7 +55,7 @@ export default function Home() {
                     setFilteredProducts={setFilteredProducts}
                 />
                 <div className="products-container">
-                    {filteredProducts.map((product) => <Card product={product} />)}
+                    {filteredProducts.map((product, index) => <Card product={product} key={index}/>)}
                 </div>
             </main>
         </Layout>
