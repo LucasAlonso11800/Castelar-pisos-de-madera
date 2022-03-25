@@ -18,6 +18,9 @@ main.main#contacto {
         justify-content: center;
         font-size: 24px;
         margin-bottom: 16px;
+        @media all and (max-width: 800px){
+            flex-direction: column;
+        }
     }
     img {
         max-height: 80px;

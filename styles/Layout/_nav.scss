@@ -6,6 +6,7 @@ nav.nav {
     justify-content: center;
     align-items: center;
     background-color: rgba(#000, 0.7);
+    max-width: 100%;
 
     ul {
         display: flex;
@@ -29,6 +30,15 @@ nav.nav {
                     padding-bottom: 2px;
                     border-bottom: 1px solid $orange;
                 }
+            }
+        }
+    }
+
+    @media all and (max-width: 600px) {
+        padding: 20px 10px;
+        ul {
+            li {
+                padding: 0 10px;
             }
         }
     }

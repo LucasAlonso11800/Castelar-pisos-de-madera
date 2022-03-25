@@ -8,4 +8,8 @@ header.header {
     background-position: center;
     box-shadow: 0 5px 20px 5px $black;
     border-radius: 0 0 10px 10px;
+    @media all and (max-width: 1000px) {
+        width: 100%;
+        background-size: cover;
+    }
 }

@@ -15,4 +15,17 @@ main.main#pisos {
         border-radius: 10px;
         border: 2px solid $orange
     }
+    @media all and (max-width: 1200px){
+        img {
+            max-width: 45%;
+        }
+    }
+    @media all and (max-width: 800px){
+        div.images {
+            justify-content: center;
+        }
+        img {
+            max-width: 80%;
+        }
+    }
 }
