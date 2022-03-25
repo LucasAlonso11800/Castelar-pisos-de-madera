@@ -9,7 +9,7 @@ export default function Pisos() {
             <main className="main" id="pisos">
                 <div className="images">
                     {images.map(image => (
-                        <img src={`/pisos/${image}.jpg`} />
+                        <img src={`/pisos/${image}.jpg`} key={image}/>
                     ))}
                 </div>
             </main>
