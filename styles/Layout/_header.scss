@@ -2,7 +2,7 @@ header.header {
     grid-column: 2 / 3;
     grid-row: 2 / 3;
     padding: 20px;
-    background-image: url(../../assets/local.jpeg);
+    background-image: url(../../assets/Logo.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -10,6 +10,5 @@ header.header {
     border-radius: 0 0 10px 10px;
     @media all and (max-width: 1000px) {
         width: 100%;
-        background-size: cover;
     }
 }

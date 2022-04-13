@@ -5,14 +5,16 @@ main.main#contacto {
     border-radius: 10px;
     justify-items: center;
     text-align: center;
-    color: $white;
     h1.title {
         font-size: 2.5rem;
         margin-bottom: 40px;
         text-shadow: 0 5px 20px $black;
         flex-grow: 1;
+        color: $white;
     }
-    p {
+    p,a {
+        color: $white;
+
         display: flex;
         align-items: center;
         justify-content: center;
@@ -21,6 +23,9 @@ main.main#contacto {
         @media all and (max-width: 800px){
             flex-direction: column;
         }
+    }
+    a:hover {
+        text-decoration: underline;
     }
     img {
         max-height: 80px;
